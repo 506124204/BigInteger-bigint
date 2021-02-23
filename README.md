@@ -1,3 +1,8 @@
+source:
+https://mattmccutchen.net/bigint/bigint-2010.04.30.zip
+https://mattmccutchen.net/bigint/bigint-2010.04.30.tar.bz2
+
+
 README
                             C++ Big Integer Library
                           (see ChangeLog for version)
