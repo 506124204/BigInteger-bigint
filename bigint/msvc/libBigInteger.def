@@ -1,0 +1,22 @@
+; libBigInteger.def : Declares the module parameters for the DLL.
+
+LIBRARY
+
+EXPORTS
+    ; Explicit exports can go here
+
+	bigint_createInstance
+	bigint_deleteInstance
+	bigint_setInt
+	bigint_compare
+	bigint_math
+	bigint_math2
+	bigint_math3
+	bigint_pow
+	bigint_from_bigInt
+	bigint_from_long
+	bigint_from_ulong
+	bigint_from_int
+	bigint_from_uint
+	bigint_bigIntegerToString
+	bigint_stringToBigInteger
